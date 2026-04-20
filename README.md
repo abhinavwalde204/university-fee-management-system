@@ -78,8 +78,18 @@ http://127.0.0.1:5000
 ## Screenshots
 
 ![Dashboard](image.png)
+![Students Table](image-3.png)
 ![ETL Pipeline](image-1.png)
 ![Kafka Logs](image-2.png)
+
+---
+
+## Key Highlights
+
+- Built end-to-end data pipeline using Flask and SQLite  
+- Implemented ETL workflow for transforming fee data  
+- Simulated Kafka producer-consumer architecture  
+- Designed real-time dashboard for analytics  \
 
 ---
 
